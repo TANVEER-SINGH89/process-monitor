@@ -1,4 +1,4 @@
- 🖥️ Process Monitor
+ 🖥️ Python Process Monitor | System Resource Monitoring Tool
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue)
 ![Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20Linux-green)
