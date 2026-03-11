@@ -50,4 +50,3 @@ A lightweight **system monitoring desktop application** built with Python that a
 
 ---
 
-## 🏗️ Project Architecture
